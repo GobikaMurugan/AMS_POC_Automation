@@ -1,0 +1,29 @@
+# Compiled class files & build artifacts
+target/
+*.class
+
+# Log files
+*.log
+logs/
+
+# Test output directories
+test-output/
+surefire-reports/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse IDE
+.settings/
+.project
+.classpath
+
+# Visual Studio Code
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db

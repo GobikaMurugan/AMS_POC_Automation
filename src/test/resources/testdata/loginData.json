@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "email": "gobika_murugan@grhombus.com",
+    "password": "Gobika@grho"
+  },
+  "invalidUser": {
+    "email": "invalid.user@amsautomation.com",
+    "password": "WrongPassword999"
+  },
+  "emptyCredentials": {
+    "email": "",
+    "password": ""
+  }
+}
